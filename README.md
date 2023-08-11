@@ -336,4 +336,19 @@ if __name__=="__main__":
 1. [Reinvent 2021: Across account CI/CD pipelines](https://www.youtube.com/watch?v=AF-pSRSGNks)
 2. [Enhanced CI/CD with AWS CDK CodePipeline](https://www.youtube.com/watch?v=1ps0Wh19MHQ)
 3. [Building a Cross account CI/CD Pipeline Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/00bc829e-fd7c-4204-9da1-faea3cf8bd88/en-US)
-# AWS_CICD_Pipeline_with_CDK
+
+# Thank You!
+## Stay Connected !!
+
+https://www.youtube.com/channel/UCNwP7KEElaJ7cdDTLP-KbBg
+
+https://www.linkedin.com/in/azizul-maqsud/
+
+https://azizulmaqsud-1684501031000.hashnode.dev/
+
+https://medium.com/@azizulmaqsud
+
+https://twitter.com/Sohail2me
+
+https://github.com/azizulmaqsud
+
